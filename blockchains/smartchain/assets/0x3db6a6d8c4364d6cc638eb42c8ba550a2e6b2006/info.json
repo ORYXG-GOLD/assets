@@ -1,0 +1,17 @@
+{
+  "name": "ORYXG Gold",
+  "symbol": "ORYXG",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "ORYXG Gold (ORYXG) — a digital asset on BNB Smart Chain by OryxChain.",
+  "website": "https://oryxchain.com",
+  "explorer": "https://bscscan.com/token/0x3db6a6d8C4364d6cC638Eb42c8bA550A2E6B2006",
+  "status": "active",
+  "id": "0x3db6a6d8c4364d6cc638eb42c8ba550a2e6b2006",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/oryxchainoryx"
+    }
+  ]
+}
